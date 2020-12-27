@@ -135,10 +135,10 @@ tools:context=".First">
         android:textSize="30dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.515"
+        app:layout_constraintHorizontal_bias="0.9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.665" />
+        app:layout_constraintVertical_bias="0.837" />
 
     <TextView
         android:id="@+id/t101"
@@ -148,10 +148,10 @@ tools:context=".First">
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.191"
+        app:layout_constraintHorizontal_bias="0.182"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.082" />
+        app:layout_constraintVertical_bias="0.081" />
 
     <TextView
         android:id="@+id/t102"
@@ -164,7 +164,7 @@ tools:context=".First">
         app:layout_constraintHorizontal_bias="0.185"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.193" />
+        app:layout_constraintVertical_bias="0.192" />
 
     <TextView
         android:id="@+id/t103"
@@ -177,7 +177,7 @@ tools:context=".First">
         app:layout_constraintHorizontal_bias="0.185"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.306" />
+        app:layout_constraintVertical_bias="0.305" />
 
     <TextView
         android:id="@+id/t104"
@@ -190,7 +190,7 @@ tools:context=".First">
         app:layout_constraintHorizontal_bias="0.185"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.41" />
+        app:layout_constraintVertical_bias="0.413" />
 
     <TextView
         android:id="@+id/t105"
@@ -200,10 +200,10 @@ tools:context=".First">
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.191"
+        app:layout_constraintHorizontal_bias="0.18"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.522" />
+        app:layout_constraintVertical_bias="0.526" />
 
     <TextView
         android:id="@+id/t106"
@@ -271,22 +271,24 @@ tools:context=".First">
         app:layout_constraintVertical_bias="0.522" />
 
     <Button
-    android:id="@+id/b1"
-    android:layout_width="80dp"
-    android:layout_height="40dp"
-    android:text="选座" android:textSize="18dp"
-    app:layout_constraintBottom_toBottomOf="parent"
-    app:layout_constraintEnd_toEndOf="parent"
-    app:layout_constraintHorizontal_bias="0.365"
-    app:layout_constraintStart_toStartOf="parent"
-    app:layout_constraintTop_toTopOf="parent"
-    app:layout_constraintVertical_bias="0.079" />
+        android:id="@+id/b1"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:text="选座"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.365"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.083" />
 
     <Button
         android:id="@+id/b2"
         android:layout_width="80dp"
         android:layout_height="40dp"
-        android:text="选座" android:textSize="18dp"
+        android:text="选座"
+        android:textSize="18dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.365"
@@ -298,37 +300,40 @@ tools:context=".First">
         android:id="@+id/b3"
         android:layout_width="80dp"
         android:layout_height="40dp"
-        android:text="选座" android:textSize="18dp"
+        android:text="选座"
+        android:textSize="18dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.365"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.311" />
+        app:layout_constraintVertical_bias="0.31" />
 
     <Button
         android:id="@+id/b4"
         android:layout_width="80dp"
         android:layout_height="40dp"
-        android:text="选座" android:textSize="18dp"
+        android:text="选座"
+        android:textSize="18dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.365"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.418" />
+        app:layout_constraintVertical_bias="0.424" />
 
     <Button
         android:id="@+id/b5"
         android:layout_width="80dp"
         android:layout_height="40dp"
-        android:text="选座" android:textSize="18dp"
+        android:text="选座"
+        android:textSize="18dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.365"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.532" />
+        app:layout_constraintVertical_bias="0.538" />
 
     <Button
         android:id="@+id/b6"

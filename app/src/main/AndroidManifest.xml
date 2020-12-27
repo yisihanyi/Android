@@ -12,7 +12,6 @@
         <activity android:name=".mine"></activity>
         <activity android:name=".Activity2" />
         <activity android:name=".Register" />
-        <activity android:name=".Third" />
         <activity android:name=".Second" />
         <activity android:name=".First" />
         <activity
